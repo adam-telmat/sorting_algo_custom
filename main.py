@@ -13,7 +13,6 @@ import time
 import sys
 import sorting
 from typing import List, Dict, Any, Callable, Tuple
-from algorithms import sorting
 from config import SHOW_COMPARISON, WIDTH, HEIGHT, ANIMATION_DELAY
 from ui.visualizer import CosmiSort
 
